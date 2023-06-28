@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efe7a87e.css",
+    "main.js": "/static/js/main.fcd86f95.js",
+    "static/js/787.134ef247.chunk.js": "/static/js/787.134ef247.chunk.js",
+    "static/media/bg-bigdata-login.jpg": "/static/media/bg-bigdata-login.945847404a60988a7744.jpg",
+    "static/media/logo-bigdata.png": "/static/media/logo-bigdata.68b18a8e6ab1c9e47f99.png",
+    "index.html": "/index.html",
+    "main.efe7a87e.css.map": "/static/css/main.efe7a87e.css.map",
+    "main.fcd86f95.js.map": "/static/js/main.fcd86f95.js.map",
+    "787.134ef247.chunk.js.map": "/static/js/787.134ef247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe7a87e.css",
+    "static/js/main.fcd86f95.js"
+  ]
+}
